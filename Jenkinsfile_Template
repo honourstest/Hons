@@ -1,0 +1,12 @@
+Pipeline(
+  client: '',
+  username: '',
+  token: '',
+  image: '',
+  recipe: '',
+  collection: '',
+  container: '',
+  tag: '',
+  vm_user: '',
+  vm_ip: '')
+  
